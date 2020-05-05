@@ -1,0 +1,63 @@
+body{
+	background: url(images/bg.jpg);
+	overflow: hidden;
+}
+h1{
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+	text-shadow: 12px,12px,12px;
+	font-size: 70px;
+	 text-shadow: 3px 3px 4px white;
+	
+	
+}
+mark{
+	color:black;
+	/*background: white;*/
+}
+p{
+	color:white;
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+	font-size:20px;
+}
+label{
+	color:white;
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+}
+span{
+	color:green;
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+}
+#player1{
+	background: white;
+	position:relative;
+	left:200px;
+	bottom:20px;
+}
+#player2{
+	background: white;
+	position:relative;
+	left:900px;
+	bottom:370px;
+}
+section{
+	position:relative;
+	left:550px;
+	font-family: 'Roboto Slab', serif;
+}
+.winningMessage{
+	color:white;
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 30px;
+}
+button:hover{
+	 font-size:20px;
+	 box-shadow: 3px 3px 4px 4px black;
+
+}
+
+
